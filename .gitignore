@@ -1,0 +1,70 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+bot_douyin_release.zip
+
+# Playwright & Browser Sessions (CRITICAL: Never commit session credentials)
+douyin_session/
+douyin_session_backup/
+storage_state.json
+lockfile
+*.lock
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment and secrets
+.env
+.env.local
+*.key
+
+# IDE & OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Exploration, scratch & debug artifacts
+scratch/
+*.png
+*.jpg
+*.jpeg
+*.html
+!static/index.html
+test_*.py
+inspect_*.py
+track_*.py
+check_*.py
+click_*.py
+find_*.py
+snap_*.py
+analyze_*.py
+dom_result.json
+*.zip
