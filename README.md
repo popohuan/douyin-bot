@@ -1,4 +1,4 @@
-# 🤖 抖音拟真自动回复 & 赛博哄女友替身机器人 
+# 🤖 抖音拟真自动回复 & 赛博哄女友替身机器人 （欢迎各位加入LINUX DO 社区 linux.do）
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white" alt="Python 3.10+">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <b>基于 DeepSeek 大模型 + Playwright 真实持久化浏览器驱动的抖音（PC 网页端）自动化高拟人私信替身系统。</b><br>
+  <b>基于 Playwright 真实持久化浏览器驱动的抖音（PC 网页端）自动化高拟人私信替身系统。</b><br>
   配备多轮长效历史对话归档、专属事实记忆库与现代化 Web 单页管理控制台。
 </p>
 
