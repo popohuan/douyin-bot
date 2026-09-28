@@ -1,4 +1,4 @@
-#    抖音自动回复 (欢迎各位加入LINUX DO 社区 linux.do）
+#    抖音拟真自动回复 (欢迎各位加入LINUX DO 社区 linux.do）
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white" alt="Python 3.10+">
