@@ -57,7 +57,7 @@ flowchart TD
 确保本地安装有 **Python 3.10 或更高版本**：
 ```bash
 # 克隆仓库
-git clone https://github.com/popohuan/douyin-girlfriend-bot.git
+git clone https://github.com/popohuan/douyin-bot.git
 cd douyin-girlfriend-bot
 
 # 安装依赖
@@ -114,9 +114,7 @@ douyin-girlfriend-bot/
 
 ## ⚙️ 内置官方预设模版
 
-本系统出厂预置了经过实战检验的高拟真人设与事实档案模版，可在 Web 控制台一键套用：
-1. **【年下男友/恋人】**：浓郁少年感、松弛粘人与偶尔嘴硬，口语倒装，内置防查岗打太极与两人专属生活习惯/黑历史档案；
-2. **【亲弟血脉压制】**：极度冷漠嘲讽、惜字如金，专供拦截借钱与查岗踢皮球战术；
+本系统出厂预置了经过实战检验的高拟真人设与事实档案模版，可在 Web 控制台一键套用
 
 ---
 
